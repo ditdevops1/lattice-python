@@ -59,7 +59,7 @@ def lwe():
     # Calculate  Probability(Prob) , Prob = -266.3018282954434
     Prob = math.log((1-(((dict_params['q']-1)/(2*δ))))**(dict_params['n']*dict_params['l']),2)
 
-
+    print(Prob)
 
 
     for cle, valeur in dict_params.items():

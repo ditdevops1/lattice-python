@@ -173,6 +173,7 @@ def ntru_prime():
     
     print("Tâche de Alioune")
     print("Tâche de Maodo")
+    print("Tâche de Maodo bis")
 
    
     print("######## Generate Delta(δ)  ########")

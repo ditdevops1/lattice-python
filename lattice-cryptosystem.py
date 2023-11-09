@@ -170,6 +170,8 @@ def ntru_prime():
     
     print("######## Generate Public Key  ########")
     print(" ", "Pk", "=", Pk)
+    
+    print("Tâche de Alioune")
 
    
     print("######## Generate Delta(δ)  ########")

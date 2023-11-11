@@ -172,6 +172,7 @@ def ntru_prime():
     print(" ", "Pk", "=", Pk)
     
     print("Tâche de Alioune")
+    print("Tâche de Alioune 2")
     print("Tâche de Maodo")
 
    
